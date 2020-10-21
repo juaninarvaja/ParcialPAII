@@ -1,0 +1,29 @@
+.titles {
+  text-align: center;
+  font-weight: bold !important; 
+}
+
+  .poke-table {
+    /* height: 80%; */
+    width: 85vw;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .poke-table-body {
+    padding: 3px 16px !important;
+  }
+  
+.cantidad {
+  margin: 50px;
+  color: white;
+}
+.imagen-rango{
+
+ width: 1em;
+
+}
+.imagen-pokeball{
+  width: 5em;
+}
